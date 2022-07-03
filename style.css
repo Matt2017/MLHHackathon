@@ -1,0 +1,6 @@
+svg .seat:hover{
+    fill: rgb(15, 185, 86);
+    cursor:pointer;
+  }
+ div { text-align: center }
+ body { background-color: #FFFFE2; }
